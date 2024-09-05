@@ -1,1 +1,1 @@
-"{{\"name\":\"test\", \"type\":2}}"
+{"db": [{"name": "reggie", "species": "dog", "dob": "17.10.2017", "owner": "theo"}, {"name": "charlie", "species": "dog", "dob": "13.02.2003", "owner": "theo"}, {"name": "charlie", "species": "fish", "dob": "12.02.2007", "owner": "herald"}]}
